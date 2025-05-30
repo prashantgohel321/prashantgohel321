@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">👋 Hello, I'm Prashant Gohel</h1>
+<p align="center">
+  🎓 Final-Year BCA (Hons.) Student • ☁️ Cloud Computing Specialization • 📍 Marwadi University, Rajkot
+</p>
 
-<!--
-**prashantgohel321/prashantgohel321** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌐 About Me
+I'm a passionate and motivated final-year undergraduate student pursuing **Bachelor of Computer Applications (Hons.) in Cloud Computing** at **Marwadi University**, Rajkot.
 
-Here are some ideas to get you started:
+> Currently looking for internship opportunities to gain real-world experience and contribute to exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Skills & Knowledge Areas
+
+- 💻 **Operating Systems** (Windows, Linux)
+- 🌐 **Computer Networks**
+- 💡 **Shell Scripting**
+- 🐍 **Python Programming**
+- ☁️ AWS Basics (IAM, EC2, S3, Lambda)
+- 🔄 Continuous Learning & Adaptability
+
+---
+
+### 📫 Connect With Me
+
+- ✉️ Email: [prashangohel1706@gmail.com](mailto:prashangohel1706@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/prashant-gohel](https://linkedin.com/in/prashant-gohel-7108b6251)
+- 🌐 GitHub: [github.com/prashantgohel321](https://github.com/prashantgohel321)
+
+---
