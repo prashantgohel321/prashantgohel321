@@ -3,10 +3,13 @@
   🎓 Final-Year BCA (Hons.) Student • ☁️ Cloud Computing Specialization • 📍 Marwadi University, Rajkot
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=prashantgohel321&color=red)
+
+
 ### 🌐 About Me
 I'm a passionate and motivated final-year undergraduate student pursuing **Bachelor of Computer Applications (Hons.) in Cloud Computing** at **Marwadi University**, Rajkot.
 
-> Currently looking for internship opportunities to gain real-world experience and contribute to exciting projects.
+Currently looking for internship opportunities to gain real-world experience and contribute to exciting projects.
 
 ---
 
@@ -28,3 +31,7 @@ I'm a passionate and motivated final-year undergraduate student pursuing **Bache
 - 🌐 GitHub: [github.com/prashantgohel321](https://github.com/prashantgohel321)
 
 ---
+
+<p align="center">
+<img src=https://streak-stats.demolab.com/?user=prashantgohel321&theme=dark>
+</p>
