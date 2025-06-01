@@ -3,7 +3,6 @@
   🎓 Final-Year BCA (Hons.) Student • ☁️ Cloud Computing Specialization • 📍 Marwadi University, Rajkot
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=prashantgohel321&color=red)
 
 
 ### 🌐 About Me
@@ -32,6 +31,3 @@ Currently looking for internship opportunities to gain real-world experience and
 
 ---
 
-<p align="center">
-<img src=https://streak-stats.demolab.com/?user=prashantgohel321&theme=dark>
-</p>
