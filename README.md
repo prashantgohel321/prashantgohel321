@@ -18,6 +18,7 @@ Currently looking for internship opportunities to gain real-world experience and
 - 🌐 **Computer Networks**
 - 💡 **Shell Scripting**
 - 🐍 **Python Programming**
+- Git & GitHub
 - ☁️ AWS Basics (IAM, EC2, S3, Lambda)
 - 🔄 Continuous Learning & Adaptability
 
