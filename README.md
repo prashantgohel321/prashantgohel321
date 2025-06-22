@@ -69,6 +69,10 @@ I'm currently looking for internship opportunities where I can apply my skills, 
   <a href="https://github.com/prashantgohel321" target="_blank" style="text-decoration:none; margin-left: 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+
+  <a href="https://prashant-gohel-portfolio.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/My_Portfolio-123458?style=for-the-badge&logoColor=white" alt="My Portfolio" />
+  </a>
 </p>
 
 ---
