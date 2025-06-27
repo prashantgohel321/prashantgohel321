@@ -66,19 +66,19 @@ I'm currently looking for internship opportunities where I can apply my skills, 
   <a href="mailto:prashangohel1706@gmail.com" target="_blank" style="text-decoration:none;">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-
   <!-- LinkedIn Button -->
   <a href="https://linkedin.com/in/prashant-gohel-7108b6251" target="_blank" style="text-decoration:none; margin-left: 10px;">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-
   <!-- GitHub Button -->
   <a href="https://github.com/prashantgohel321" target="_blank" style="text-decoration:none; margin-left: 10px;">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-
   <a href="https://prashant-gohel-portfolio.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/My_Portfolio-123458?style=for-the-badge&logoColor=white" alt="My Portfolio" />
+  </a>
+  <a href="https://hashnode.com/@prashantgohel" target="_blank">
+    <img src="https://img.shields.io/badge/Hashnode-0000ff?style=for-the-badge&logoColor=white" alt="My Portfolio" />
   </a>
 </p>
 
