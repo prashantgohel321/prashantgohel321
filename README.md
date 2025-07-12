@@ -80,6 +80,9 @@ I'm currently looking for internship opportunities where I can apply my skills, 
   <a href="https://hashnode.com/@prashantgohel" target="_blank">
     <img src="https://img.shields.io/badge/Hashnode-0000ff?style=for-the-badge&logoColor=white" alt="My Portfolio" />
   </a>
+  <a href="https://www.youtube.com/@DevOpsWithUs" target="_blank" style="text-decoration:none;">
+    <img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  </a>
 </p>
 
 ---
