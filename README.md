@@ -32,32 +32,6 @@ I'm currently looking for internship opportunities where I can apply my skills, 
 
 ---
 
-<h2>📂 Featured GitHub Projects and Repos</h2>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/prashantgohel321/AWS-PracCloud">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashantgohel321&repo=AWS-PracCloud&theme=default" alt="aws-basics" />
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/prashantgohel321/College_ERP">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashantgohel321&repo=College_ERP&theme=default" alt="shell-scripting" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/prashantgohel321/AWS-DevOps">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=prashantgohel321&repo=AWS-DevOps&theme=default" alt="shell-scripting" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <h2>📫 Let's Connect</h2>
 
 
