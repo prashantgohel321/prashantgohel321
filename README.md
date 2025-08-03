@@ -14,30 +14,6 @@ I'm passionate about learning new technologies and applying them to real-world p
 
 I'm actively seeking internship opportunities where I can contribute, grow, and learn alongside talented engineers.
 
----
-
-## Live Projects
-
-<div align="center">
-  <a href="https://smart-quiz-builder.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/SmartQuiz_Builder-00C853?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://dockgen.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/DockGen-FF6F00?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-  <a href="https://prashant-gohel-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3949AB?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://terminalos.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Terminal_OS-263238?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
-  </a>
-  <a href="https://cloudhq-demo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Cloud_HQ-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  </a>
-  <a href="https://devopsboard.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/DevOpsBoard-1E88E5?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
-</div>
 
 ---
 
