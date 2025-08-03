@@ -74,6 +74,9 @@ I'm actively seeking internship opportunities where I can contribute, grow, and 
   <a href="https://www.youtube.com/@DevOpsWithUs" target="_blank">
     <img src="https://img.shields.io/badge/YouTube-EA4335?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
+  <a href="https://prashantgohel.gumroad.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gumroad-FF7043?style=for-the-badge&logo=gumroad&logoColor=white" />
+  </a>
 </p>
 
 ---
