@@ -1,64 +1,81 @@
-<h1 align="center">Hi there, I'm Prashant Gohel 👋</h1>
-
+<h1 align="center">Hey 👋, I'm Prashant Gohel</h1>
 <p align="center">
-  🎓 Final-Year BCA (Hons.) Student | ☁️ Cloud & DevOps Enthusiast | 📍 Gujarat, India <br>
+  🎓 BCA (Hons.) Final Year Student &nbsp;|&nbsp; ☁️ Cloud & DevOps Enthusiast &nbsp;|&nbsp; 📍 Gujarat, India  
 </p>
+
 
 ---
 
-<h2>🌟 About Me</h2>
+## About Me
 
-<p>
-I'm a passionate and motivated final-year undergraduate student pursuing a <strong>Bachelor of Computer Applications (Hons.)</strong> with a specialization in <strong>Cloud Computing</strong> at <em>Marwadi University</em>, Rajkot.
-</p>
+Hi there! I'm **Prashant Gohel**, a dedicated Cloud & DevOps enthusiast pursuing my BCA (Hons.) with a specialization in Cloud Computing at **Marwadi University**, Rajkot.
 
-<p>
-I'm currently looking for internship opportunities where I can apply my skills, grow professionally, and contribute to real-world DevOps and Cloud-based projects.
-</p>
+I'm passionate about learning new technologies and applying them to real-world problems — especially in the areas of **DevOps**, **Cloud Engineering**, and **automation**.
+
+I'm actively seeking internship opportunities where I can contribute, grow, and learn alongside talented engineers.
 
 ---
 
-<h2>🛠️ Skills & Technologies</h2>
+## Live Projects
 
-<ul>
-  <li><strong>Operating Systems:</strong> Windows, Linux</li>
-  <li><strong>Networking Fundamentals</strong></li>
-  <li><strong>Scripting:</strong> Shell Scripting</li>
-  <li><strong>Programming:</strong> Python</li>
-  <li><strong>Version Control:</strong> Git & GitHub</li>
-  <li><strong>Cloud Basics:</strong> AWS (IAM, EC2, S3, Lambda)</li>
-  <li><strong>Soft Skills:</strong> Adaptability, Problem-Solving, Continuous Learning</li>
-</ul>
-
----
-
-<h2>📫 Let's Connect</h2>
-
-
-<p align="center">
-  <!-- Email Button -->
-  <a href="mailto:prashangohel1706@gmail.com" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+<div align="center">
+  <a href="https://smart-quiz-builder.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/SmartQuiz_Builder-00C853?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
-  <!-- LinkedIn Button -->
-  <a href="https://linkedin.com/in/prashant-gohel-7108b6251" target="_blank" style="text-decoration:none; margin-left: 10px;">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <!-- GitHub Button -->
-  <a href="https://github.com/prashantgohel321" target="_blank" style="text-decoration:none; margin-left: 10px;">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <a href="https://dockgen.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/DockGen-FF6F00?style=for-the-badge&logo=docker&logoColor=white" />
   </a>
   <a href="https://prashant-gohel-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/My_Portfolio-123458?style=for-the-badge&logoColor=white" alt="My Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-3949AB?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  <a href="https://terminalos.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Terminal_OS-263238?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
+  </a>
+  <a href="https://cloudhq-demo.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Cloud_HQ-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" />
+  </a>
+  <a href="https://devopsboard.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/DevOpsBoard-1E88E5?style=for-the-badge&logo=dev.to&logoColor=white" />
+  </a>
+</div>
+
+---
+
+## Skills
+
+| Category              | Tools / Technologies |
+|----------------------|----------------------|
+| **Languages**         | Python, Bash         |
+| **Version Control**   | Git, GitHub          |
+| **OS & Systems**      | Linux (Ubuntu, CentOS), Windows |
+| **Cloud**             | AWS (EC2, IAM, S3, Lambda) |
+| **Containers**        | Docker (Basics)      |
+| **DevOps Concepts**   | CI/CD, IaC (intro), Monitoring (basics) |
+| **Tools**             | VS Code, Postman, Netlify |
+| **Soft Skills**       | Problem Solving, Collaboration, Continuous Learning |
+
+---
+
+## 📫 Connect with Me
+
+<p align="center">
+  <a href="mailto:prashangohel1706@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/prashant-gohel-7108b6251" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/prashantgohel321" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://hashnode.com/@prashantgohel" target="_blank">
-    <img src="https://img.shields.io/badge/Hashnode-0000ff?style=for-the-badge&logoColor=white" alt="My Portfolio" />
+    <img src="https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white" />
   </a>
-  <a href="https://www.youtube.com/@DevOpsWithUs" target="_blank" style="text-decoration:none;">
-    <img src="https://img.shields.io/badge/YouTube-D14836?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+  <a href="https://www.youtube.com/@DevOpsWithUs" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-EA4335?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
 </p>
 
 ---
 
-<h4 align="center">Thanks for visiting! 😊</h4>
+<h3 align="center">Thanks for visiting!</h3>
