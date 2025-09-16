@@ -19,6 +19,29 @@ I'm actively seeking internship opportunities where I can contribute, grow, and 
 
 
 
+## 🎥 Our YouTube Channel – DevOpsWithUs
+
+<p align="center">
+  <!-- Replace the link below with the raw GitHub URL of your actual banner image -->
+  <a href="https://www.youtube.com/@DevOpsWithUs" target="_blank">
+    <img width="1895" height="1079" alt="Screenshot 2025-09-16 192929" src="https://github.com/user-attachments/assets/9e367f26-b093-4d91-a21e-14539d436fd8" />
+  </a>
+</p>
+
+We run **[DevOpsWithUs](https://www.youtube.com/@DevOpsWithUs)**—a channel where we share our journey of learning and building in **Cloud** and **DevOps**.
+
+What you’ll find there:
+- 🔧 **Hands-on Tutorials:** Real AWS and CI/CD walkthroughs you can follow step-by-step.  
+- 🚀 **Mini Projects:** From Docker deployments to infrastructure-as-code experiments.  
+- 💡 **Practical Tips:** Short videos with quick wins for developers and system admins.  
+
+Even though we’re a small channel (just starting out!), our goal is to learn in public and help others grow with us.  
+Come join the conversation—every subscriber, comment, and suggestion helps us create better content.
+
+---
+
+
+
 ## Live Projects
 
 <div align="center">
