@@ -82,6 +82,11 @@ Come join the conversation—every subscriber, comment, and suggestion helps us 
 
 ---
 
+[![Prashant's GitHub commit graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantgohel321&theme=github-compact&custom_title=Contribution%20Graph%20(28%20days)&hide_border=true&days=28)](https://github.com/prashantgohel321)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantgohel321&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark)
+
+
 ## 📫 Connect with Me
 
 <p align="center">
