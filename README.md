@@ -1,91 +1,42 @@
 <h1 align="center">Hey 👋, I'm Prashant Gohel</h1>
 <p align="center">
-  🎓 BCA (Hons.) Final Year Student &nbsp;|&nbsp; ☁️ Cloud & DevOps Enthusiast &nbsp;|&nbsp; 📍 Gujarat, India  
+  ☁️ Cloud & DevOps Enthusiast &nbsp;|&nbsp; 💻 Aspiring DevOps Engineer &nbsp;|&nbsp; 📍 Gujarat, India  
 </p>
 
-
 ---
 
-## About Me
+<div style="display: flex; gap: 30px;">
 
-Hi there! I'm **Prashant Gohel**, a dedicated Cloud & DevOps enthusiast pursuing my BCA (Hons.) with a specialization in Cloud Computing at **Marwadi University**, Rajkot.
+| About Me | 🎥 Our YouTube Channel – DevOpsWithUs |
+| :--- | :--- |
+| I started my journey by building a strong foundation in Cloud Computing, DevOps, and programming through hands-on projects and certifications. <br><br> Currently, I’m working on real-world projects like CI/CD pipelines, AWS networking, and sharing my learnings on my YouTube channel DevOpsWithUs. <br><br> In the future, I aim to grow as a DevOps Engineer, focusing on automation, cloud-native solutions, and scalable architectures. | We run **[DevOpsWithUs](https://www.youtube.com/@DevOpsWithUs)**—a channel where we share our journey of learning and building in **Cloud** and **DevOps**. <br><br> We post hands-on tutorials, mini projects, and practical tips to make learning easier. <br><br> Our goal is to learn in public and grow together with the community. |
 
-I'm passionate about learning new technologies and applying them to real-world problems — especially in the areas of **DevOps**, **Cloud Engineering**, and **automation**.
-
-I'm actively seeking internship opportunities where I can contribute, grow, and learn alongside talented engineers.
-
-
----
-
-
-
-## 🎥 Our YouTube Channel – DevOpsWithUs
-
-<p align="center">
-  <!-- Replace the link below with the raw GitHub URL of your actual banner image -->
-  <a href="https://www.youtube.com/@DevOpsWithUs" target="_blank">
-    <img width="1895" height="1079" alt="Screenshot 2025-09-16 192929" src="https://github.com/user-attachments/assets/9e367f26-b093-4d91-a21e-14539d436fd8" />
-  </a>
-</p>
-
-We run **[DevOpsWithUs](https://www.youtube.com/@DevOpsWithUs)**—a channel where we share our journey of learning and building in **Cloud** and **DevOps**.
-
-What you’ll find there:
-- 🔧 **Hands-on Tutorials:** Real AWS and CI/CD walkthroughs you can follow step-by-step.  
-- 🚀 **Mini Projects:** From Docker deployments to infrastructure-as-code experiments.  
-- 💡 **Practical Tips:** Short videos with quick wins for developers and system admins.  
-
-Even though we’re a small channel (just starting out!), our goal is to learn in public and help others grow with us.  
-Come join the conversation—every subscriber, comment, and suggestion helps us create better content.
-
----
-
-
-
-## Live Projects
-
-<div align="center">
-  <a href="https://smart-quiz-builder.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/SmartQuiz_Builder-00C853?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
-  </a>
-  <a href="https://dockgen.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/DockGen-FF6F00?style=for-the-badge&logo=docker&logoColor=white" />
-  </a>
-  <a href="https://prashant-gohel-portfolio.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-3949AB?style=for-the-badge&logo=About.me&logoColor=white" />
-  </a>
-  <a href="https://terminalos.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Terminal_OS-263238?style=for-the-badge&logo=gnome-terminal&logoColor=white" />
-  </a>
-  <a href="https://cloudhq-demo.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Cloud_HQ-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" />
-  </a>
-  <a href="https://devopsboard.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/badge/DevOpsBoard-1E88E5?style=for-the-badge&logo=dev.to&logoColor=white" />
-  </a>
 </div>
 
 ---
+<div style="display: flex; gap: 30px; width: 100%;">
 
-## Skills
+| Skills | Live Projects |
+| :--- | :--- |
+| **Languages**: Python, Bash <br><br> **Version Control**: Git, GitHub <br><br> **OS & Systems**: Linux (Ubuntu, CentOS), Windows <br><br> **Cloud**: AWS (EC2, IAM, S3, Lambda) <br><br> **Containers**: Docker (Basics) <br><br> **DevOps Concepts**: CI/CD, IaC (intro), Monitoring (basics) <br><br> **Tools**: VS Code, Postman, Netlify <br><br> **Soft Skills**: Problem Solving, Collaboration, Continuous Learning | <div align="center"> <a href="https://smart-quiz-builder.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/SmartQuiz_Builder-00C853?style=for-the-badge&logo=Google-Chrome&logoColor=white" /> </a> <a href="https://dockgen.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/DockGen-FF6F00?style=for-the-badge&logo=docker&logoColor=white" /> </a>  <a href="https://prashant-gohel-portfolio.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-3949AB?style=for-the-badge&logo=About.me&logoColor=white" /> </a> <br><br> <a href="https://terminalos.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Terminal_OS-263238?style=for-the-badge&logo=gnome-terminal&logoColor=white" /> </a>  <a href="https://cloudhq-demo.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Cloud_HQ-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" /> </a>  <a href="https://devopsboard.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/DevOpsBoard-1E88E5?style=for-the-badge&logo=dev.to&logoColor=white" /> </a> </div> |
 
-| Category              | Tools / Technologies |
-|----------------------|----------------------|
-| **Languages**         | Python, Bash         |
-| **Version Control**   | Git, GitHub          |
-| **OS & Systems**      | Linux (Ubuntu, CentOS), Windows |
-| **Cloud**             | AWS (EC2, IAM, S3, Lambda) |
-| **Containers**        | Docker (Basics)      |
-| **DevOps Concepts**   | CI/CD, IaC (intro), Monitoring (basics) |
-| **Tools**             | VS Code, Postman, Netlify |
-| **Soft Skills**       | Problem Solving, Collaboration, Continuous Learning |
-
+</div>
 ---
 
-[![Prashant's GitHub commit graph](https://github-readme-activity-graph.vercel.app/graph?username=prashantgohel321&theme=github-compact&custom_title=Contribution%20Graph%20(28%20days)&hide_border=true&days=28)](https://github.com/prashantgohel321)
+<table>
+  <tr valign="top">
+    <td width="50%">
+      <a href="https://github.com/prashantgohel321">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantgohel321&theme=github-compact&custom_title=Contribution%20Graph%20(28%20days)&hide_border=true&days=10" alt="Prashant's GitHub commit graph" />
+      </a>
+    </td>
+    <td width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=prashantgohel321&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" alt="GitHub Stats" />
+    </td>
+  </tr>
+</table>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=prashantgohel321&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark)
-
+---
 
 ## 📫 Connect with Me
 
