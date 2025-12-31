@@ -17,31 +17,6 @@
 
 ---
 
-<div style="display: flex; gap: 30px; width: 100%;">
-
-| Skills | Live Projects |
-| :--- | :--- |
-| **Languages**: Python, Bash <br><br> **Version Control**: Git, GitHub <br><br> **OS & Systems**: Linux (Ubuntu, CentOS, Rocky), Windows <br><br> **Cloud**: AWS (EC2, IAM, S3, Lambda, VPC) <br><br> **Containers**: Docker <br><br> **DevOps Concepts**: CI/CD, IaC (intro), Monitoring (basics) <br><br> | <div align="center"> <a href="https://smart-quiz-builder.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/SmartQuiz_Builder-00C853?style=for-the-badge&logo=Google-Chrome&logoColor=white" /> </a> <a href="https://dockgen.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/DockGen-FF6F00?style=for-the-badge&logo=docker&logoColor=white" /> </a>  <a href="https://prashant-gohel-portfolio.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Portfolio-3949AB?style=for-the-badge&logo=About.me&logoColor=white" /> </a> <br><br> <a href="https://terminalos.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Terminal_OS-263238?style=for-the-badge&logo=gnome-terminal&logoColor=white" /> </a>  <a href="https://cloudhq-demo.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/Cloud_HQ-039BE5?style=for-the-badge&logo=cloudflare&logoColor=white" /> </a>  <a href="https://devopsboard.netlify.app/" target="_blank"> <img src="https://img.shields.io/badge/DevOpsBoard-1E88E5?style=for-the-badge&logo=dev.to&logoColor=white" /> </a> </div> |
-
-</div>
-
----
-
-<table>
-  <tr valign="top">
-    <td width="50%">
-      <a href="https://github.com/prashantgohel321">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=prashantgohel321&theme=github-compact&custom_title=Contribution%20Graph%20(28%20days)&hide_border=true&days=28" alt="Prashant's GitHub commit graph" />
-      </a>
-    </td>
-    <td width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=prashantgohel321&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=dark" alt="GitHub Stats" />
-    </td>
-  </tr>
-</table>
-
----
-
 ## 📫 Connect with Me
 
 <p align="center">
